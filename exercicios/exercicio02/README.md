@@ -3,7 +3,7 @@
 ## Data: 09/12/2020
 
 Gramática do Exercício:
-...
+```
 
 <assign> -> <id> = <expr>
 <id> -> A | B | C
@@ -12,10 +12,9 @@ Gramática do Exercício:
     | (<expr>)
     | <id>
     
-...
+```
 
 
 ### Questão 01:
 #### A = A * (B + (C * A))
 Derivação:
-
