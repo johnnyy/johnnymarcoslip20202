@@ -72,7 +72,6 @@ Derivação:
 #### A = A * (B + (C))
 
 Derivação:
-<<<<<<< HEAD
 ```
 <assign> => <id> = <expr>
 => A = <expr>
