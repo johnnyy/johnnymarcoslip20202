@@ -63,6 +63,7 @@ Derivação:
 => A = B + <factor> + <term>
 => A = B + <id> + <term>
 => A = B + C + <term>
+=> A = B + C + <factor>
 => A = B + C + <id>
 => A = B + C + A
 ```
@@ -133,7 +134,7 @@ Derivação:
 
 Árvore:
 
-![questao014](questoa014.png)
+![questao014](questao014.png)
 
 
 ### Questão 2
