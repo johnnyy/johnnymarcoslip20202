@@ -11,7 +11,7 @@
 <program> -> begin <stmt_list> end
 <stmt_list> -> <stmt> {; <stmt>}
 <stmt> -> <var> = <expression>
-<var> -> (A | B | C)
+<var> -> A | B | C
 <expression> -> <var> [(+ | -) <var>]
 ```
 
@@ -20,7 +20,7 @@
 
 ```
 <assign> -> <id> = <expr>
-<id> -> (A | B | C)
+<id> -> A | B | C
 <expr> -> ( (<expr>) | <id> )  { (+ | *)  ( (<expr>) | <id> )}
 
 ```
