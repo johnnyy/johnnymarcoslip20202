@@ -1,8 +1,9 @@
 # Atividade 03 de Linguagens de Programação
+# Correção: 1,5 pontos.
 ## Nome: Johnny Marcos Silva Soares
 ## Data: 23/12/2020
 
-### Questão 01:
+### Questão 01: 0,5 Pontos
 
 ###### Problema 15:
 
@@ -24,9 +25,9 @@
 <expr> -> ( (<expr>) | <id> )  { (+ | *)  ( (<expr>) | <id> )}
 
 ```
+**Correção**: Fiquei com a impressão que aqui você força a _\<expr\>_ sempre aparecer com parênteses. Talvez para diferenciar, colocar os parênteses símbolos entre aspas ('('). 
 
-
-### Questão 02:
+### Questão 02: 1,0 Ponto.
 
 ###### Problema 20:
 ```
