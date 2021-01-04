@@ -1,6 +1,7 @@
 # Atividade 03 de Linguagens de Programação
 ## Nome: Johnny Marcos Silva Soares
 ## Data: 16/12/2020
+## Correção: 1,5 pontos, tudo OK.
 
 ### Questão 01:
 
