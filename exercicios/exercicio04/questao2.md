@@ -27,9 +27,9 @@ M_doWhile (do L while B, s) delta =
                 if M_b( B, s ) == undef
                     return error
                 else if M_b( B, s ) == TRUE
-                    M_doWhile( do L while B, M_sl( B, s ) )
+                    M_doWhile( do L while B, M_sl( L, s ) )
                 else
-                    return M_sl( B, s )
+                    return M_sl( L, s )
                 
 ```     
 
