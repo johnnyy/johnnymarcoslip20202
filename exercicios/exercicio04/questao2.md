@@ -1,4 +1,5 @@
 # Exercício 04 de Linguagens de Programação
+## Correção: OK.
 ## Nome: Johnny Marcos Silva Soares
 ## Data: 13/01/2021
 
