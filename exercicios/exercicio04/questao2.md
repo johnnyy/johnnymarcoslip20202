@@ -12,25 +12,27 @@
 ```
 do {
    expr1;
-   expr2;
 } while (expr3) 
 ```
 
 
 exemplo do do-while:
 
-```
-do {
-   i = i + 1;    // expr1
-   x = 2 * i;    // expr2
-} while (i < 10)
-```
 
 
 #### Defininção de semântica denotacional:
 ```
-M<sub>2</sub>
-```
+M_doWhile (do L while B, s) delta = 
+                if M_se( L, s ) == undef
+                    return error
+                if M_b( B, s ) == undef
+                    return error
+                else if M_b( B, s ) == TRUE
+                    M_doWhile( do L while B, s)
+                else
+                    return
+                
+```     
 
 
 
