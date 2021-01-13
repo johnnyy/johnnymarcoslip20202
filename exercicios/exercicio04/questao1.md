@@ -1,5 +1,5 @@
 # Exercício 04 de Linguagens de Programação
-### Correção: OK. 1,0 Ponto.
+### Correção: OK. 
 ## Nome: Johnny Marcos Silva Soares
 ## Data: 13/01/2021
 
