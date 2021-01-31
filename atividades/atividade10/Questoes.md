@@ -50,3 +50,5 @@ Como count >=1 e n > 0, então, está provado.
 
 ### Questão 02:
 
+Código python com analisador léxico [nesse link](https://github.com/johnnyy/johnnymarcoslip20202/blob/master/atividades/atividade10/front.py).
+Arquivo para testar o analisador léxico [nesse link](https://github.com/johnnyy/johnnymarcoslip20202/blob/master/atividades/atividade10/front.in).
