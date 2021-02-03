@@ -44,7 +44,6 @@ alpha2 = vazio
 A = S
 beta = aaAbb
 ```
-manipulador é beta.
 
 Frases simples:
 ```
@@ -54,3 +53,5 @@ alpha2 = b
 A = B
 beta = b
 ```
+
+O manipulador é b.

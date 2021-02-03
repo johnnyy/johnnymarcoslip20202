@@ -66,7 +66,7 @@ A = S
 beta = aAcccbbc
 
 ```
-manipulador é beta.
+
 
 Frases simples:
 ```
@@ -88,3 +88,4 @@ alpha2 = vazio
 A = B
 beta = c
 ```
+O manipulador é c, referente a frase simples 3 que é a forma sentencial mais à direita.
