@@ -88,4 +88,4 @@ alpha2 = vazio
 A = B
 beta = c
 ```
-O manipulador é c, referente a frase simples 3 que é a forma sentencial mais à direita.
+O manipulador é Ac, referente a frase simples 1 que é a frase simples mais à esquerda.
