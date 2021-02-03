@@ -1,7 +1,7 @@
 # Exercício 07 de Linguagens de Programação
 ## Nome: Johnny Marcos Silva Soares
 ## Data: 03/02/2021
-
+## Correção: OK
 ### Questão 01:
 
 ```
