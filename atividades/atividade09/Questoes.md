@@ -1,6 +1,7 @@
 # Atividade 09 de Linguagens de Programação
 ## Nome: Johnny Marcos Silva Soares
 ## Data: 27/01/2021
+### Correção: 1,0
 
 
 ### Questão 01:
