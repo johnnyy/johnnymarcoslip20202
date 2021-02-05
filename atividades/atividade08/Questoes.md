@@ -2,6 +2,7 @@
 ## Nome: Johnny Marcos Silva Soares
 ## Matrícula: 385161
 ## Data: 20/01/2021
+### Correção: 0,7
 
 ### Questão 01: 
 
@@ -24,6 +25,7 @@ switch(expr1){
 
 #### Defininção de semântica operacional:
 ```
+// Correção: poderia ter colocado reticências para indicar a possibilidade de outros casos.
         if expr1 == expr2 goto COND1
         if expr1 == expr3 goto COND2
 COND1:
@@ -43,7 +45,8 @@ OUT:
 
 #### Defininção de semântica denotacional:
 
-```       
+```
+// Correção: Aqui você só tratou 3 casos, quando deveria ter usado recursão em Mswitch para ir percorrendo a lista de cases e avaliando um por um.
 M_switch( switch expr1 case expr2 do block_expr1
                        case expr3 do block_expr2
                        case default do block_expr3 , s ) delta =
