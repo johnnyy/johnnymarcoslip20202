@@ -38,7 +38,7 @@ Sub2 chama Sub3
 
 + a) Assumindo escopo estático, qual a declaração de X (primeira ou segunda) é correta dentro de 
   1. Sub1 - Segunda Declaração
-  2. Sub2 - Primeira Declaração
+  2. Sub2 - Segunda Declaração
   3. Sub3 - Primeira Declaração
 + b) Repita a parte a), mas assuma escopo dinâmico.
 
