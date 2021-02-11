@@ -2,6 +2,7 @@
 ## Nome: Johnny Marcos Silva Soares
 ## Data: 10/02/2021
 ## Questão 01 - Problema 06, Capítulo 05
+### Correção: OK
 
 Considere o seguinte esqueleto de programa em Ada:
 
