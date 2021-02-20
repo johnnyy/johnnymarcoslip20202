@@ -8,7 +8,7 @@ int main(){
 	char caracter;
 	int j = 0;
 	int len = strlen(str) - 1;
-	for (int i = len; i >= len/2; i--, j++){
+	for (int i = len; i > len/2; i--, j++){
 		caracter= str[j];
 		str[j] = str[i];
 		str[i] = caracter;
