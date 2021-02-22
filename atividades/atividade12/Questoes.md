@@ -3,6 +3,7 @@
 ## Data: 17/02/2021
 
 ### Questão 01 
+#### Correção: 0,5
 
 ##### 1 - O que é lado esquerdo de uma variável? O que é o lado direito?
 
@@ -57,6 +58,7 @@ highs = [74, 84 ,86, 90, 71];
 
 
 ### Questão 2:
+#### Correção: 0,5
 
 ```
 Tempo gasto chamada estática em segundos com 5 casas decimais: 0.00079
