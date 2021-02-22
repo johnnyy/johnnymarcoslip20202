@@ -4,6 +4,7 @@
 
 
 ### Questão 02:
+#### Correção: 0,8. O papel da seção GOTO da tabela não está claro.
 
 gramática:
 ```
