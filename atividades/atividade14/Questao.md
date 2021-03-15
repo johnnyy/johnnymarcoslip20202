@@ -1,7 +1,7 @@
  # Atividade 14 de Linguagens de Programação
 ## Nome: Johnny Marcos Silva Soares
 ## Data: 03/03/2021
-
+#### Correção: 1,0
 ### Questão 01 
 
 Considerando que as funções conhecem o endereço de memória **matrix**.

@@ -1,3 +1,4 @@
+// Correção: 0,5
 #include <stdio.h>
 #include <string.h>
 //definição da enum
@@ -28,6 +29,7 @@ int comparaEstudante(Estudante Estudante1, Estudante Estudante2){
 //Pelo exemplo, não é avaliado o atributo "consolidado"
 // e pela falta de verificação do tipo da avaliação, tmb não é avaliado se a média é igual
 //Portanto, a verificação é com relação ao nome, curso e disciplina.
+// Correção: Você supõe que não avalia, mas o formato das estruturas deixa a entender o papel do campo consolidado. 
 	if (
 		!strcmp(Estudante1.nome, Estudante2.nome)
 		&& Estudante1.disciplina == Estudante2.disciplina
