@@ -1,3 +1,4 @@
+// Correção: 1,5
 #include<stdio.h>
 
 int strlen_local(char * str){
@@ -27,6 +28,8 @@ int strcmp_local(char * str1, char * str2){
 
 }
 
+// Você não alocou memória no monte para garantir 
+// o espaço das duas cadeias. 
 void strcat_local(char * str1, char * str2){
 	int len_1 = strlen_local(str1);
 	for (int i = 0; str2[i] != '\0'; i++, len_1++){
