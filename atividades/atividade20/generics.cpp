@@ -1,3 +1,4 @@
+// Correção: 2,0 pontos.
 #include<iostream>
 #include<stdlib.h>
 
